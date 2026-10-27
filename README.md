@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/34015830/README.md)
 <div align="center">
 
-<img src="installer/wizard-small-250.png" width="116" alt="GoLAN">
+
 
 # GoLAN
 
