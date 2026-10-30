@@ -6,6 +6,6 @@
     <!-- SHA-256 of the installer above. The app refuses to run a
          download whose hash does not match this. Filled in at release
          time; leave it empty and the app will warn but still install. -->
-    <sha256>AC934741978B9F7925E58551ACA159CFD0E97F329A10E2D9D4275E8856248931</sha256>
+    <sha256>D31922CD5505BACEF98793FDE47324EEEB0934F46F6357D7E8882241AD16C7DF</sha256>
     <mandatory>false</mandatory>
 </item>
