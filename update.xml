@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1.0</version>
-    <url>https://github.com/parhamzare139/VirtualLANPlatform/releases/download/v1.1.0/VirtualLANPlatform_Setup_v1.1.0.exe</url>
-    <changelog>https://github.com/parhamzare139/VirtualLANPlatform/releases/tag/v1.1.0</changelog>
-    <!-- SHA-256 of the installer above. The app refuses to run a
-         download whose hash does not match this. Filled in at release
-         time; leave it empty and the app will warn but still install. -->
-    <sha256>0F78CBE533DB1B540DAA1017A5F8B5DB39840CF7DE0810134B9881117749EE45</sha256>
+    <version>1.4.0</version>
+    <url>https://github.com/parhamzare139/VirtualLANPlatform/releases/download/v1.4.0/GoLAN_Setup_v1.4.0.exe</url>
+    <changelog>https://github.com/parhamzare139/VirtualLANPlatform/releases/tag/v1.4.0</changelog>
+    <sha256>344B03A7CFFD4FE0F75CEF25EB4CF07C50C0F79814AB896AB7A1EFBA797AAE85</sha256>
     <mandatory>false</mandatory>
 </item>
