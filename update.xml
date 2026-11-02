@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.4.0</version>
-    <url>https://github.com/parhamzare139/VirtualLANPlatform/releases/download/v1.4.0/GoLAN_Setup_v1.4.0.exe</url>
-    <changelog>https://github.com/parhamzare139/VirtualLANPlatform/releases/tag/v1.4.0</changelog>
-    <sha256>344B03A7CFFD4FE0F75CEF25EB4CF07C50C0F79814AB896AB7A1EFBA797AAE85</sha256>
+    <version>1.5.0</version>
+    <url>https://github.com/parhamzare139/VirtualLANPlatform/releases/download/v1.5.0/GoLAN_Setup_v1.5.0.exe</url>
+    <changelog>https://github.com/parhamzare139/VirtualLANPlatform/releases/tag/v1.5.0</changelog>
+    <sha256>8526AD26193072DB02479A1EEC24388B442B049CBA9D4F154DFF93AFD5D12885</sha256>
     <mandatory>false</mandatory>
 </item>
