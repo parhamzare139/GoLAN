@@ -1,7 +1,7 @@
-[README.md](https://github.com/user-attachments/files/34288253/README.md)
+[Uploading README.md…]()
 <div align="center">
 
-<img src="installer/wizard-small-250.png" width="116" alt="GoLAN">
+<img src="docs/logo.png" width="116" alt="GoLAN">
 
 # GoLAN
 
@@ -23,7 +23,13 @@
 
 <br>
 
-<img src="docs/screenshots/room-dark.png" alt="GoLAN — اتاق، تم تیره" width="900">
+<img src="docs/screenshots/tour.gif" alt="GoLAN — لابی، اتاق، راهنما، چی جدیده و تنظیمات" width="900">
+
+<sub>لابی ← اتاق ← راهنما ← «چی جدیده؟» ← تنظیمات</sub>
+
+<br>
+
+⭐ **اگر GoLAN به کارتان آمد، یک Star بدهید** — و با **Watch ← Custom ← Releases** از نسخه‌های تازه باخبر شوید.
 
 </div>
 
@@ -364,7 +370,7 @@ GoLAN همان Virtual LAN Platform است با اسم و ظاهر جدید. ن�
 - **داخل برنامه:** «گزارش مشکل» پایین پنجره (یا تنظیمات ← درباره) — ایمیل پشتیبانی را برایتان کپی می‌کند و اگر خواستید، لاگ‌ها و مشخصات شبکه‌تان را در یک فایل zip ذخیره می‌کند. چیزی بدون اجازه‌ی شما نمی‌رود.
 - **ایمیل:** [vlanplat.help@gmail.com](mailto:vlanplat.help@gmail.com)
 - **گزارش باگ عمومی:** [GitHub Issues](https://github.com/parhamzare139/VirtualLANPlatform/issues)
-- اگر برنامه به کارتان آمد و خواستید حمایت کنید: **[reymit.ir/vlanplatform](https://reymit.ir/vlanplatform)**
+- ⭐ یک **Star** بدهید و با **Watch ← Custom ← Releases** از نسخه‌های تازه خبردار شوید؛ و اگر برنامه به کارتان آمد و خواستید حمایت کنید: **[reymit.ir/vlanplatform](https://reymit.ir/vlanplatform)**
 
 ---
 
@@ -395,6 +401,8 @@ GoLAN همان Virtual LAN Platform است با اسم و ظاهر جدید. ن�
 **A peer-to-peer virtual LAN for gaming, chat, voice and file sharing — no server, no router setup.**
 
 <img src="docs/screenshots/room-light.png" alt="GoLAN — the room, light theme" width="900">
+
+⭐ **If GoLAN is useful to you, give it a Star** — and use **Watch → Custom → Releases** to hear about new versions.
 
 </div>
 
@@ -663,7 +671,7 @@ The app checks when it opens (and from Settings → About whenever you like) and
 - In-app: **Report a problem** at the bottom of the window (or Settings → About) — copies the support address and, if you want, saves your logs and network details into a zip. Nothing is sent without you.
 - Email: [vlanplat.help@gmail.com](mailto:vlanplat.help@gmail.com)
 - Bugs: [GitHub Issues](https://github.com/parhamzare139/VirtualLANPlatform/issues)
-- Found it useful? **[Support the project](https://reymit.ir/vlanplatform)**
+- ⭐ Give it a **Star** and use **Watch → Custom → Releases** to hear about new versions; found it useful? **[Support the project](https://reymit.ir/vlanplatform)**
 
 ## 📜 License
 
